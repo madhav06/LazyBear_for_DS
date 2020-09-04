@@ -17,6 +17,9 @@ print(llist)
 llist.append("f")
 print(llist)
 
+llist.append("p")
+print(llist)
+
 # removing element: pop() or popleft() removes
 llist.pop()
 print(llist)
