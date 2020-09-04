@@ -74,3 +74,6 @@ class TestBalanceCheck(object):
 
 t = TestBalanceCheck()
 t.test(balanced_check)
+
+# balanced parenthesis checks that for every opening parenthesis there will be closing parenthesis  in the reverse order opened.
+# For example ‘([])’ is balanced but ‘([)]’ is not.
