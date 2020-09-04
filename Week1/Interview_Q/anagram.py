@@ -1,5 +1,7 @@
 # anagram program
 
+# An anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+#  typically using all the original letters exactly once.
 
 def anagram(s1,s2):
     s1 = s1.replace(' ','').lower()
